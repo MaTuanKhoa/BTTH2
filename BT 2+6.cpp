@@ -3,7 +3,7 @@
 //khaibao 
 using namespace std;
 int main() {
-    int a, b, c, d;
+    float a, b, c, d;
 //input 
 	cout << "Nhap so thu nhat: ";
     cin >> a;
@@ -25,7 +25,7 @@ int main() {
         max_num = d;
     }
 //output 
-    cout << "So lon nhat là: " << max_num << endl;
+    cout << "So lon nhat lÃ : " << max_num << endl;
 	return 0;
  
 }
